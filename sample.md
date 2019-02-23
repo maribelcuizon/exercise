@@ -1,3 +1,5 @@
-Git and GitHub are used for version control.
+Git and GitHub are used for version controls.
+
 Git manages your files.
+
 GitHub hosts your files.
