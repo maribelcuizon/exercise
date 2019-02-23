@@ -1,4 +1,4 @@
-Git and GitHub are used for version controls.
+You can use Git and GitHub for version controls.
 
 Git manages your files.
 
