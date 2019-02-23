@@ -5,4 +5,4 @@ Git manages your files locally.
 GitHub hosts your files remotely.
 But there are alternatives to GitHub.
 
-GitHub is the most popular.
+GitHub is the most popular version control.
